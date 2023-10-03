@@ -19,4 +19,4 @@
 [![](https://visitcount.itsvg.in/api?id=Mitang321&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-![Discord Presence](https://discord.c99.nl/widget/theme-3/737924114748145665.png)
+[![Discord Presence](https://discord.c99.nl/widget/theme-3/737924114748145665.png)](https://discordapp.com/users/737924114748145665)
