@@ -1,6 +1,10 @@
 ![Poster](https://github.com/Mitang321/Mitang321/blob/main/2SToXhPOVsUG_1584_396.png)
-
+<!---GIF--->
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
 <br><br>
+
 <p align="center">
   <samp>
     Hi, I'm Mitang! 👋 <br>
