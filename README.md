@@ -1,4 +1,4 @@
-![Poster](https://github.com/Mitang321/Mitang321/blob/main/2SToXhPOVsUG_1584_396.png)
+![Poster](https://i.pinimg.com/originals/59/54/b4/5954b408c66525ad932faa693a647e3f.jpg)
 <!---GIF--->
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
